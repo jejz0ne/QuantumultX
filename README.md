@@ -17,4 +17,4 @@
 
 # 访问量
 
-![](http://profile-counter.glitch.me/Jejz168-QuantumultX/count.svg)
+![](https://komarev.com/ghpvc/?username=Jejz168&color=8A2BE2&style=for-the-badge)
