@@ -17,4 +17,4 @@
 
 # 访问量
 
-![](https://komarev.com/ghpvc/?username=Jejz168&color=8A2BE2&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=jejz0ne&color=8A2BE2&style=for-the-badge)
